@@ -1,0 +1,14 @@
+C:\Users\Vanay's PC\source\repos\DispatchCalcVR\DispatchCalcVR\obj\Debug\net8.0\DispatchCalcVR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanay's PC\source\repos\DispatchCalcVR\DispatchCalcVR\obj\Debug\net8.0\DispatchCalcVR.AssemblyInfoInputs.cache
+C:\Users\Vanay's PC\source\repos\DispatchCalcVR\DispatchCalcVR\obj\Debug\net8.0\DispatchCalcVR.AssemblyInfo.cs
+C:\Users\Vanay's PC\source\repos\DispatchCalcVR\DispatchCalcVR\obj\Debug\net8.0\DispatchCalcVR.csproj.CoreCompileInputs.cache
+C:\Users\Vanay's PC\source\repos\DispatchCalcVR\DispatchCalcVR\bin\Debug\net8.0\DispatchCalcVR.exe
+C:\Users\Vanay's PC\source\repos\DispatchCalcVR\DispatchCalcVR\bin\Debug\net8.0\DispatchCalcVR.deps.json
+C:\Users\Vanay's PC\source\repos\DispatchCalcVR\DispatchCalcVR\bin\Debug\net8.0\DispatchCalcVR.runtimeconfig.json
+C:\Users\Vanay's PC\source\repos\DispatchCalcVR\DispatchCalcVR\bin\Debug\net8.0\DispatchCalcVR.dll
+C:\Users\Vanay's PC\source\repos\DispatchCalcVR\DispatchCalcVR\bin\Debug\net8.0\DispatchCalcVR.pdb
+C:\Users\Vanay's PC\source\repos\DispatchCalcVR\DispatchCalcVR\obj\Debug\net8.0\DispatchCalcVR.dll
+C:\Users\Vanay's PC\source\repos\DispatchCalcVR\DispatchCalcVR\obj\Debug\net8.0\refint\DispatchCalcVR.dll
+C:\Users\Vanay's PC\source\repos\DispatchCalcVR\DispatchCalcVR\obj\Debug\net8.0\DispatchCalcVR.pdb
+C:\Users\Vanay's PC\source\repos\DispatchCalcVR\DispatchCalcVR\obj\Debug\net8.0\DispatchCalcVR.genruntimeconfig.cache
+C:\Users\Vanay's PC\source\repos\DispatchCalcVR\DispatchCalcVR\obj\Debug\net8.0\ref\DispatchCalcVR.dll
